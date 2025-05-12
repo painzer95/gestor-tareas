@@ -1,2 +1,2 @@
-# gestor-tareas
-Mi primer gestor de tareas
+# Gestor de Tareas
+Proyecto simple en Python para manejar una lista de tareas.
